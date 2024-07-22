@@ -36,6 +36,7 @@ header > h1 {
 
 header > p {
     padding-bottom: 50px;
+    color: white;
 }
 
 header > a, footer > a {
