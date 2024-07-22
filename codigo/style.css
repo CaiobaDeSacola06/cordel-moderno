@@ -38,7 +38,7 @@ header > p {
     padding-bottom: 50px;
 }
 
-header > p:hover {
+header > a {
     color: white;
 }
 
